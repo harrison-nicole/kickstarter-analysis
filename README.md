@@ -9,7 +9,7 @@ The goal of this analysis was to understand campaign outcomes based on launch da
 This analysis was completed by utilizing a pivot table and the COUNTIFS() function in excel. 
 
 ### Analysis of Outcomes Based on Launch Date
-The first analysis, outcomes based on launch date, was designed to help Louise understand what launch date timeframes (by month of year) led to the most successful campaigns. Additionally, we were also to see which launch dates (by month of  year) led to more failed campaigns. 
+The first analysis, outcomes based on launch date, was designed to help Louise understand what launch date timeframes (by month of year) led to the most successful campaigns. Additionally, we were also able to see which launch dates (by month of  year) led to more failed campaigns. 
 
 ![](/Images/Theater_Outcomes_vs_Launch.png).
 
