@@ -22,17 +22,21 @@ The analysis for this project did not pose many challenges. That said, one key l
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The outcomes based on launch date analysis provided advantageous information for Louise. Two key findings are as follows: 
 1) May, June and July saw the most number of successful campaigns. This might suggest Louise consider launching her campaign in one of those months. 
 2) December saw the highest ratio of failed campaigns. This might suggest that Louise avoid launching a campaign in December. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The outcomes based on goals analysis provided helpful information for Louise. Most notably, the analysis demonstrates that campaigns with goals less than 9999 had the highest percentage of success rate. As campaigns increase in goal, the rate of failure increases (except between 35000 to 45000). 
 
 - What are some limitations of this dataset?
+
 One limitation of this dataset is the sample size. There are 1047 plays in this dataset and while that provides a good foundation for analysis, it's important to note that there were very few campaigns with gosls greater than 25000. For example, there was only one play with a goal between 45000 and 49999, which failed and resulted in a 100% fail rate for that goal category.
 
 - What are some other possible tables and/or graphs that we could create?
+
 Other possible tables and/or graphs to consider include: 
 1) outcomes based on country
 2) outcomes based on country and goal (or launch date)
