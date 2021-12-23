@@ -10,11 +10,11 @@ This analysis was completed by utilizing a pivot table and the COUNTIFS() functi
 
 ### Analysis of Outcomes Based on Launch Date
 The first analysis, outcomes based on launch date, was designed to help Louise understand what launch date timeframes (by month of year) led to the most successful campaigns. Additionally, we were also to see which launch dates (by month of  year) led to more failed campaigns. 
-![](/Challenge Resources/Theater_Outcomes_vs_Launch.png).
+![]("/Challenge Resources/Theater_Outcomes_vs_Launch.png").
 
 ### Analysis of Outcomes Based on Goals
 The second analysis, outcomes based on goals, was designed to help Louise understand what funding goals led to the most successful and/or failed campaigns. She can use this information to inform her funding goals for future campaigns.
-![Outcomes Based on Goals}(path/to/Outcomes_vs_Goals.png).
+![Outcomes Based on Goals](path/to/Outcomes_vs_Goals.png).
 
 ### Challenges and Difficulties Encountered
 The analysis for this project did not pose many challenges. That said, one key learning opportunity was to utilize the F4 key to ensure the COUNTIFS forumlas remained static. Without this step, the results for the outcomes based on goals analysis would not have been accurate with the formula moving.
