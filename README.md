@@ -1,4 +1,4 @@
-# Stock Analysis
+# Kickstarting with Excel
 
 ## Overview of Project
 
